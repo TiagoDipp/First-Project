@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks -First Project- </h1>
 
 <p align="center">
-Projeto desenvolvido através de um curso "Rocketseat.com.br. <br/>
+Projeto desenvolvido através de um curso "Rocketseat.com.br". <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
@@ -22,11 +22,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O DevLinks é um agregador de links para usar como cartão de visitas online. Sendo este meu primeiro projeto criado, com ajuda de vídeos.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Acesse o projeto finalizado, online](http://127.0.0.1:5500/index.html)
 
 ## 🔖 Layout
 
