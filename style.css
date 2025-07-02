@@ -9,6 +9,7 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
+  border: solid 1px magenta;
 }
 
 body * {
@@ -90,6 +91,13 @@ body * {
   z-index: 1;
   transform: translateY(-50%);
   top: 50%;
+  left: 0;
+
+  animation: slide-back 0.2s;
+}
+
+.light #switch button {
+  animation: slide-switch 0.2s forwards;
 }
 
 #switch span {
@@ -163,4 +171,22 @@ footer {
   padding: 24px;
   text-align: center;
   font-size: 14px;
+}
+
+@keyframes slide-switch {
+  from {
+    left: 0;
+  }
+  to {
+    left: 50%;
+  }
+}
+
+@keyframes slide-back {
+  from {
+    left: 50%;
+  }
+  to {
+    left: 0;
+  }
 }
